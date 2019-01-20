@@ -1,2 +1,13 @@
-# dps_calculator
-DPS calculator for WanHua
+# DPS Calculator
+世外蓬莱版本花间游dps计算器
+
+# 奇穴
+弹指，雪中行，倚天，焚玉，青歌，青冠，春寒，雪弃，流离，梦歌，踏歌，涓流
+
+# 加速
+994
+
+# TODO
+实战加成
+橙武特效
+清流生息
